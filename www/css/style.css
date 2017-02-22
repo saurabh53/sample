@@ -1,0 +1,19 @@
+/* Empty. Add your own CSS if you like */
+.box1, box2, box3
+{
+    height: 200px;
+    
+}
+img {
+  display: block;
+  width: 100vw;
+  height: 200px;
+  object-fit: cover;
+}
+
+footer 
+{
+    text-align: center; 
+   
+    
+}
